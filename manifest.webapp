@@ -1,0 +1,13 @@
+{
+  "version": "0.1",
+  "name": "Hello World",
+  "description": "Neil's first firefox os awesome App",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icon-128.png"
+  },
+  "developer": {
+    "name": "Neil Ding",
+    "url": "http://gxding.com"
+  }
+}
